@@ -3,4 +3,7 @@ def add(a, b):
 	return a+b
 
 def substract(a, b):
-	retrun a-b
+	return a-b
+
+def multiply(a, b):
+	return a+b
